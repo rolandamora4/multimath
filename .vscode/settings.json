@@ -39,7 +39,7 @@
   
     "problems.decorations.enabled": false,
   
-    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.fontSize": 12,
 
     "workbench.colorCustomizations": {
       "terminal.background":"#000000",
